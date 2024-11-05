@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Samuel Santa
 
-<!--
-**Worthlex/Worthlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador junior con interés en la programación y un sólido conocimiento en **Python avanzado**. Estoy en constante aprendizaje y busco mejorar mis habilidades mientras trabajo en proyectos desafiantes. Me gusta resolver problemas y explorar nuevas tecnologías.
 
-Here are some ideas to get you started:
+### 🚀 Habilidades
+- **Lenguajes:** Python
+- **Conocimientos:** Programación avanzada en Python, estructuras de datos, algoritmos, y fundamentos de programación orientada a objetos.
+- **Herramientas:** Git, GitHub, Conda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente aprendiendo
+Me mantengo en un proceso de mejora continua en Python y me interesa aprender sobre desarrollo web, machine learning, y otras áreas de la tecnología.
+
+### 📫 Contáctame
+- [Email](mailto:ssdcode9@gmail.com)
